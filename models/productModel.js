@@ -11,7 +11,7 @@ const reviewSchema = mongoose.Schema(
   }
 );
 
-const Schema = mongoose.Schema();
+const Schema = mongoose.Schema;
 
 const productSchema = Schema(
   {
